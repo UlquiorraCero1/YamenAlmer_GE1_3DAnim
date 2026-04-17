@@ -40,6 +40,6 @@ public class NinjaAnimationController : MonoBehaviour
 
     public void TriggerIdle()
     {
-        animator.SetTrigger("Ideal");
+        animator.SetTrigger("Idle");
     }
 }
